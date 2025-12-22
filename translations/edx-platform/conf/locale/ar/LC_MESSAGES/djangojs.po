@@ -9109,7 +9109,7 @@ msgstr "أضف رداً:"
 #: common/static/common/templates/discussion/templates.underscore:488
 #: lms/templates/verify_student/incourse_reverify.underscore:62
 msgid "Submit"
-msgstr "تقديم"
+msgstr "إرسال الإجابة"
 
 #: common/static/common/templates/discussion/templates.underscore:74
 #, python-format
