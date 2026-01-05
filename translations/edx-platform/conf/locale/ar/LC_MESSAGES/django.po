@@ -13813,6 +13813,9 @@ msgstr "عنوان البريد الإلكتروني الذي استخدمته �
 msgid "Create Account"
 msgstr "إنشاء حساب "
 
+msgid "Create New Account"
+msgstr "إنشاء حساب جديد"
+
 #: openedx/core/djangoapps/user_authn/views/password_reset.py
 msgid ""
 "That e-mail address doesn't have an associated user account. Are you sure "
