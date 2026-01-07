@@ -6562,7 +6562,7 @@ msgstr "هل أنت واثق من رغبتك في إلغاء تعطيل الحس
 #: openedx/core/djangoapps/theming/templates/theming/theming-admin-fragment.html:40
 #: themes/stanford-style/lms/templates/register-shib.html:190
 msgid "Submit"
-msgstr "إرسال الإجاية"
+msgstr "إرسال"
 
 #: lms/templates/bulk_email/edx_ace/bulkemail/email/body.html:18
 #, python-format
@@ -11712,7 +11712,7 @@ msgstr "اجابة صحيحة"
 
 #: xmodule/capa_block.py:1037
 msgid "Submitting"
-msgstr "جاري إرسال الإجاية"
+msgstr "إرسال"
 
 #: xmodule/capa_block.py:1167
 msgid "Warning: The problem has been reset to its initial state!"
