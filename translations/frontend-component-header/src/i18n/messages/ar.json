@@ -1,6 +1,7 @@
 {
-  "header.links.courses": "المساقات",
-  "header.links.programs": "البرامج",
+  "header.links.courses": "مساقات",
+  "header.links.about": "لمحة عن",
+  "header.links.programs": "برامج",
   "header.links.content.search": "اكتشف الجديد",
   "header.links.schools": "المدارس و الشركاء",
   "header.user.menu.dashboard": "لوحة التقدم",
