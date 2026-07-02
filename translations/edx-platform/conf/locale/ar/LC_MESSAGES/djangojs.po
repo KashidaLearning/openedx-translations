@@ -11468,3 +11468,6 @@ msgstr ""
 #: openedx/features/course_search/static/course_search/templates/dashboard_search_results.underscore:26
 msgid "Sorry, no results were found."
 msgstr "عذراً، لم يُعثر على نتائج."
+
+msgid "Register"
+msgstr "التسجيل"
